@@ -1,2 +1,6 @@
 # HelloWorld
-Just GitHub Demo
+
+嗨，朋友们！  
+
+这里是 funnyZhang，在这里分享技术、学习总结！
+一条迷途的咸鱼，总有一天会游向属于它的天地！
